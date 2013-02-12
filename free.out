@@ -1,0 +1,265 @@
+
+Node: c1epcpac01, Instance: PRD
+
+USER>
+
+
+Databases Selected
+------------------
+/epic/prd/cachesys/mgr/
+/epic/prd/cachesys/mgr/cache/
+/epic/prd/cachesys/mgr/cacheaudit/
+/epic/prd/cachesys/mgr/cachelib/
+/epic/prd/cachesys/mgr/cachetemp/
+/epic/prd/cachesys/mgr/docbook/
+/epic/prd/cachesys/mgr/samples/
+/epic/prd/cachesys/mgr/user/
+/epic/prd01/app/
+/epic/prd01/cre/
+/epic/prd01/custloc/
+/epic/prd01/er1eow/
+/epic/prd01/er1lar/
+/epic/prd01/er1por/
+/epic/prd01/fra/
+/epic/prd01/iat/
+/epic/prd01/indear/
+/epic/prd01/indinv/
+/epic/prd01/pckcvg/
+/epic/prd01/pckinp/
+/epic/prd01/pes/
+/epic/prd01/ppy/
+/epic/prd01/rdi/
+/epic/prd01/rt/
+/epic/prd01/rtrouscratch/
+/epic/prd01/wqi/
+/epic/prd02/cts/
+/epic/prd02/dynind/
+/epic/prd02/epicaudit/
+/epic/prd02/er1/
+/epic/prd02/er1ept/
+/epic/prd02/er1lpl/
+/epic/prd02/har/
+/epic/prd02/ifc/
+/epic/prd02/indeow/
+/epic/prd02/indlar/
+/epic/prd02/indpor/
+/epic/prd02/pckear/
+/epic/prd02/pckinv/
+/epic/prd02/pts/
+/epic/prd02/scratchdb/
+/epic/prd02/wqf/
+/epic/prd03/dcifc/
+/epic/prd03/dynpck/
+/epic/prd03/epicsec/
+/epic/prd03/er1etr/
+/epic/prd03/er1ord/
+/epic/prd03/hbp/
+/epic/prd03/ind/
+/epic/prd03/indept/
+/epic/prd03/indlpl/
+/epic/prd03/loc/
+/epic/prd03/pckeow/
+/epic/prd03/pcklar/
+/epic/prd03/pckpor/
+/epic/prd03/rdt/
+/epic/prd04/adt/
+/epic/prd04/dxr/
+/epic/prd04/dyner1/
+/epic/prd04/er1fol/
+/epic/prd04/er1tar/
+/epic/prd04/hgendyn/
+/epic/prd04/indetr/
+/epic/prd04/indord/
+/epic/prd04/mdl/
+/epic/prd04/pck/
+/epic/prd04/pckept/
+/epic/prd04/pcklpl/
+/epic/prd04/phx/
+/epic/prd04/rxhub/
+/epic/prd05/alt/
+/epic/prd05/dxs/
+/epic/prd05/er1bfh/
+/epic/prd05/er1fsd/
+/epic/prd05/er1ts3/
+/epic/prd05/foh/
+/epic/prd05/hlb/
+/epic/prd05/indfol/
+/epic/prd05/indtar/
+/epic/prd05/mpt/
+/epic/prd05/pcketr/
+/epic/prd05/pckord/
+/epic/prd05/psp/
+/epic/prd05/ssc/
+/epic/prd06/appdyn/
+/epic/prd06/e1l/
+/epic/prd06/er1cal/
+/epic/prd06/er1cev/
+/epic/prd06/er1hno/
+/epic/prd06/hcb/
+/epic/prd06/hqh/
+/epic/prd06/indbfh/
+/epic/prd06/indfsd/
+/epic/prd06/indts3/
+/epic/prd06/mychart/
+/epic/prd06/pckfol/
+/epic/prd06/pcktar/
+/epic/prd06/ucl/
+/epic/prd07/cht/
+/epic/prd07/eid/
+/epic/prd07/er1cvg/
+/epic/prd07/er1inp/
+/epic/prd07/htr/
+/epic/prd07/indcal/
+/epic/prd07/indcev/
+/epic/prd07/indhno/
+/epic/prd07/odc/
+/epic/prd07/pax/
+/epic/prd07/pckbfh/
+/epic/prd07/pckfsd/
+/epic/prd07/pckts3/
+/epic/prd07/vrx/
+/epic/prd08/clm/
+/epic/prd08/er1ear/
+/epic/prd08/er1inv/
+/epic/prd08/err/
+/epic/prd08/htt/
+/epic/prd08/indcvg/
+/epic/prd08/indinp/
+/epic/prd08/pckcal/
+/epic/prd08/pckcev/
+/epic/prd08/pckhno/
+/epic/prd08/pdx/
+/epic/prd08/wmg/
+Device: 
+Right margin: 80 => 
+
+
+                           Cache Database Free Space
+                              Dec 10 2012 12:20 PM
+Database                           Max Size  Size    Available %Free   Disk Free
+/epic/prd/cachesys/mgr/            Unlimited 56MB    9.5MB     16.96   9.73GB
+/epic/prd/cachesys/mgr/cache/      Unlimited 1MB     0.43MB    43      9.73GB
+/epic/prd/cachesys/mgr/cacheaudit/ Unlimited 11MB    9.9MB     90      9.73GB
+/epic/prd/cachesys/mgr/cachelib/   Unlimited 284MB   45MB      15.84   9.73GB
+/epic/prd/cachesys/mgr/cachetemp/  4.88GB    1.02GB  254MB     24.3    9.73GB
+/epic/prd/cachesys/mgr/docbook/    Unlimited 121MB   0.50MB    .41  <- 9.73GB
+/epic/prd/cachesys/mgr/samples/    Unlimited 51MB    4.2MB     8.23    9.73GB
+/epic/prd/cachesys/mgr/user/       Unlimited 11MB    10MB      90.9    9.73GB
+/epic/prd01/app/                   29.59GB   29.59GB 15.78GB   53.33   164.50GB
+/epic/prd01/cre/                   2.93GB    51MB    48MB      94.11   164.50GB
+/epic/prd01/custloc/               2.93GB    51MB    48MB      94.11   164.50GB
+/epic/prd01/er1eow/                3.91GB    1.08GB  20MB      1.81 <- 164.50GB
+/epic/prd01/er1lar/                2.93GB    51MB    48MB      94.11   164.50GB
+/epic/prd01/er1por/                2.93GB    51MB    48MB      94.11   164.50GB
+/epic/prd01/fra/                   2.93GB    101MB   32MB      31.68   164.50GB
+/epic/prd01/iat/                   3.91GB    1.42GB  0.57MB    .03  <- 164.50GB
+/epic/prd01/indear/                2.93GB    51MB    21MB      41.17   164.50GB
+/epic/prd01/indinv/                2.93GB    51MB    45MB      88.23   164.50GB
+/epic/prd01/pckcvg/                2.93GB    51MB    33MB      64.7    164.50GB
+/epic/prd01/pckinp/                2.93GB    501MB   48MB      9.58    164.50GB
+/epic/prd01/pes/                   2.93GB    51MB    48MB      94.11   164.50GB
+/epic/prd01/ppy/                   2.93GB    51MB    48MB      94.11   164.50GB
+/epic/prd01/rdi/                   2.93GB    51MB    47MB      92.15   164.50GB
+/epic/prd01/rt/                    2.93GB    1MB     0.43MB    43      164.50GB
+/epic/prd01/rtrouscratch/          2.93GB    1MB     0.43MB    43      164.50GB
+/epic/prd01/wqi/                   4.88GB    2.30GB  7.9MB     .33  <- 164.50GB
+/epic/prd02/cts/                   2.93GB    51MB    47MB      92.15   141.31GB
+/epic/prd02/dynind/                2.93GB    51MB    48MB      94.11   141.31GB
+/epic/prd02/epicaudit/             4.88GB    2.25GB  46MB      1.99 <- 141.31GB
+/epic/prd02/er1/                   7.81GB    5.67GB  40MB      .68  <- 141.31GB
+/epic/prd02/er1ept/                3.91GB    1.81GB  42MB      2.26 <- 141.31GB
+/epic/prd02/er1lpl/                2.93GB    51MB    42MB      82.35   141.31GB
+/epic/prd02/har/                   2.93GB    401MB   23MB      5.73    141.31GB
+/epic/prd02/ifc/                   50.78GB   46.83GB 31MB      .06  <- 141.31GB
+/epic/prd02/indeow/                2.93GB    351MB   43MB      12.25   141.31GB
+/epic/prd02/indlar/                2.93GB    51MB    47MB      92.15   141.31GB
+/epic/prd02/indpor/                2.93GB    51MB    48MB      94.11   141.31GB
+/epic/prd02/pckear/                2.93GB    51MB    32MB      62.74   141.31GB
+/epic/prd02/pckinv/                2.93GB    51MB    29MB      56.86   141.31GB
+/epic/prd02/pts/                   2.93GB    51MB    48MB      94.11   141.31GB
+/epic/prd02/scratchdb/             3.91GB    851MB   525MB     61.69   141.31GB
+/epic/prd02/wqf/                   2.93GB    151MB   102MB     67.54   141.31GB
+/epic/prd03/dcifc/                 11.72GB   6.10GB  5.60GB    91.74   155.99GB
+/epic/prd03/dynpck/                2.93GB    51MB    48MB      94.11   155.99GB
+/epic/prd03/epicsec/               300MB     22MB    19MB      86.36   155.99GB
+/epic/prd03/er1etr/                2.93GB    51MB    45MB      88.23   155.99GB
+/epic/prd03/er1ord/                20.51GB   20.12GB 8.31GB    41.3    155.99GB
+/epic/prd03/hbp/                   2.93GB    51MB    48MB      94.11   155.99GB
+/epic/prd03/ind/                   13.67GB   10.45GB 21MB      .19  <- 155.99GB
+/epic/prd03/indept/                4.88GB    2.78GB  46MB      1.61 <- 155.99GB
+/epic/prd03/indlpl/                2.93GB    51MB    36MB      70.58   155.99GB
+/epic/prd03/loc/                   6.84GB    3.61GB  213MB     5.75    155.99GB
+/epic/prd03/pckeow/                2.93GB    551MB   4.4MB     .79  <- 155.99GB
+/epic/prd03/pcklar/                2.93GB    51MB    47MB      92.15   155.99GB
+/epic/prd03/pckpor/                2.93GB    51MB    48MB      94.11   155.99GB
+/epic/prd03/rdt/                   2.93GB    51MB    48MB      94.11   155.99GB
+/epic/prd04/adt/                   2.93GB    151MB   15MB      9.93    174.13GB
+/epic/prd04/dxr/                   2.93GB    551MB   21MB      3.81 <- 174.13GB
+/epic/prd04/dyner1/                2.93GB    51MB    48MB      94.11   174.13GB
+/epic/prd04/er1fol/                2.93GB    51MB    47MB      92.15   174.13GB
+/epic/prd04/er1tar/                2.93GB    101MB   0.047MB   .04  <- 174.13GB
+/epic/prd04/hgendyn/               2.93GB    301MB   36MB      11.96   174.13GB
+/epic/prd04/indetr/                2.93GB    51MB    36MB      70.58   174.13GB
+/epic/prd04/indord/                6.84GB    3.17GB  37MB      1.13 <- 174.13GB
+/epic/prd04/mdl/                   2.93GB    101MB   45MB      44.55   174.13GB
+/epic/prd04/pck/                   11.72GB   9.23GB  169MB     1.78 <- 174.13GB
+/epic/prd04/pckept/                5.86GB    3.61GB  13MB      .35  <- 174.13GB
+/epic/prd04/pcklpl/                2.93GB    51MB    24MB      47.05   174.13GB
+/epic/prd04/phx/                   2.93GB    51MB    48MB      94.11   174.13GB
+/epic/prd04/rxhub/                 34.18GB   8.40GB  141MB     1.63 <- 174.13GB
+/epic/prd05/alt/                   4.88GB    1.12GB  32MB      2.78 <- 181.74GB
+/epic/prd05/dxs/                   2.93GB    101MB   42MB      41.58   181.74GB
+/epic/prd05/er1bfh/                2.93GB    51MB    48MB      94.11   181.74GB
+/epic/prd05/er1fsd/                5.86GB    2.10GB  29MB      1.34 <- 181.74GB
+/epic/prd05/er1ts3/                2.93GB    51MB    47MB      92.15   181.74GB
+/epic/prd05/foh/                   2.93GB    51MB    48MB      94.11   181.74GB
+/epic/prd05/hlb/                   2.93GB    701MB   50MB      7.13    181.74GB
+/epic/prd05/indfol/                2.93GB    51MB    45MB      88.23   181.74GB
+/epic/prd05/indtar/                2.93GB    51MB    31MB      60.78   181.74GB
+/epic/prd05/mpt/                   2.93GB    101MB   1.5MB     1.48 <- 181.74GB
+/epic/prd05/pcketr/                2.93GB    101MB   46MB      45.54   181.74GB
+/epic/prd05/pckord/                14.65GB   13.67GB 4.13GB    30.24   181.74GB
+/epic/prd05/psp/                   2.93GB    51MB    43MB      84.31   181.74GB
+/epic/prd05/ssc/                   2.93GB    51MB    48MB      94.11   181.74GB
+/epic/prd06/appdyn/                9.77GB    7.13GB  398MB     5.45    130.42GB
+/epic/prd06/e1l/                   2.93GB    51MB    44MB      86.27   130.42GB
+/epic/prd06/er1cal/                2.93GB    51MB    47MB      92.15   130.42GB
+/epic/prd06/er1cev/                2.93GB    51MB    48MB      94.11   130.42GB
+/epic/prd06/er1hno/                29.30GB   26.47GB 31MB      .11  <- 130.42GB
+/epic/prd06/hcb/                   2.93GB    51MB    48MB      94.11   130.42GB
+/epic/prd06/hqh/                   2.93GB    101MB   37MB      36.63   130.42GB
+/epic/prd06/indbfh/                2.93GB    51MB    47MB      92.15   130.42GB
+/epic/prd06/indfsd/                13.67GB   8.74GB  18MB      .2   <- 130.42GB
+/epic/prd06/indts3/                2.93GB    51MB    48MB      94.11   130.42GB
+/epic/prd06/mychart/               2.93GB    51MB    48MB      94.11   130.42GB
+/epic/prd06/pckfol/                2.93GB    51MB    41MB      80.39   130.42GB
+/epic/prd06/pcktar/                2.93GB    51MB    2.0MB     3.92 <- 130.42GB
+/epic/prd06/ucl/                   27.34GB   26.66GB 25.20GB   94.51   130.42GB
+/epic/prd07/cht/                   3.91GB    0.98GB  7.0MB     .69  <- 186.67GB
+/epic/prd07/eid/                   3.42GB    1.17GB  48MB      3.99 <- 186.67GB
+/epic/prd07/er1cvg/                2.93GB    151MB   41MB      27.15   186.67GB
+/epic/prd07/er1inp/                2.93GB    351MB   18MB      5.12    186.67GB
+/epic/prd07/htr/                   4.88GB    1.66GB  47MB      2.76 <- 186.67GB
+/epic/prd07/indcal/                2.93GB    51MB    42MB      82.35   186.67GB
+/epic/prd07/indcev/                2.93GB    51MB    48MB      94.11   186.67GB
+/epic/prd07/indhno/                4.88GB    2.34GB  44MB      1.83 <- 186.67GB
+/epic/prd07/odc/                   2.93GB    51MB    48MB      94.11   186.67GB
+/epic/prd07/pax/                   2.93GB    51MB    48MB      94.11   186.67GB
+/epic/prd07/pckbfh/                2.93GB    51MB    48MB      94.11   186.67GB
+/epic/prd07/pckfsd/                8.79GB    6.01GB  4.9MB     .07  <- 186.67GB
+/epic/prd07/pckts3/                2.93GB    51MB    47MB      92.15   186.67GB
+/epic/prd07/vrx/                   2.93GB    351MB   41MB      11.68   186.67GB
+/epic/prd08/clm/                   2.93GB    51MB    48MB      94.11   191.71GB
+/epic/prd08/er1ear/                2.93GB    101MB   42MB      41.58   191.71GB
+/epic/prd08/er1inv/                2.93GB    51MB    46MB      90.19   191.71GB
+/epic/prd08/err/                   6.35GB    3.47GB  2.85GB    82.17   191.71GB
+/epic/prd08/htt/                   4.88GB    1.86GB  482MB     25.35   191.71GB
+/epic/prd08/indcvg/                2.93GB    51MB    14MB      27.45   191.71GB
+/epic/prd08/indinp/                3.91GB    551MB   36MB      6.53    191.71GB
+/epic/prd08/pckcal/                2.93GB    51MB    42MB      82.35   191.71GB
+/epic/prd08/pckcev/                2.93GB    51MB    48MB      94.11   191.71GB
+/epic/prd08/pckhno/                3.91GB    1.95GB  13MB      .64  <- 191.71GB
+/epic/prd08/pdx/                   2.93GB    51MB    48MB      94.11   191.71GB
+/epic/prd08/wmg/                   2.93GB    51MB    48MB      94.11   191.71GB
+
+USER>
